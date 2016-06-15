@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "ng server",
+    "build":"ng build",
     "postinstall": "typings install",
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
